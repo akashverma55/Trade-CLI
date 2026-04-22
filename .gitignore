@@ -1,0 +1,25 @@
+# Secret keys — never push this
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Log file
+bot.log
+
+# Virtual environment
+venv/
+env/
+trading_bot/
+
+# Anaconda
+.conda/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
