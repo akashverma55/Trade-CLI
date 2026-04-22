@@ -1,0 +1,18 @@
+2026-04-22 16:30:17 | INFO | New order request - BUY 0.01 BTCUSDT at MARKET price
+2026-04-22 16:30:17 | INFO | Connected to Binance Testnet successfully
+2026-04-22 16:30:17 | SUCCESS | Order placed! ID=8065713 | Status=FILLED | Avg Price=78176.0
+2026-04-22 16:30:59 | INFO | New order request - SELL 0.01 BTCUSDT at MARKET price
+2026-04-22 16:31:00 | INFO | Connected to Binance Testnet successfully
+2026-04-22 16:31:00 | SUCCESS | Order placed! ID=8066006 | Status=FILLED | Avg Price=78177.99
+2026-04-22 16:31:16 | INFO | New order request - BUY 0.01 BTCUSDT at LIMIT price
+2026-04-22 16:31:16 | INFO | Connected to Binance Testnet successfully
+2026-04-22 16:31:16 | SUCCESS | Order placed! ID=8066114 | Status=FILLED | Avg Price=78170.91
+2026-04-22 16:31:42 | INFO | New order request - SELL 0.01 BTCUSDT at LIMIT price
+2026-04-22 16:31:42 | INFO | Connected to Binance Testnet successfully
+2026-04-22 16:31:43 | SUCCESS | Order placed! ID=8066296 | Status=NEW | Avg Price=N/A
+2026-04-22 16:32:11 | INFO | New order request - BUY 0.1 ETHUSDT at MARKET price
+2026-04-22 16:32:11 | INFO | Connected to Binance Testnet successfully
+2026-04-22 16:32:11 | SUCCESS | Order placed! ID=4369183 | Status=FILLED | Avg Price=2391.26
+2026-04-22 16:32:22 | INFO | New order request - BUY 1.0 BNBUSDT at MARKET price
+2026-04-22 16:32:22 | INFO | Connected to Binance Testnet successfully
+2026-04-22 16:32:22 | SUCCESS | Order placed! ID=2771882 | Status=FILLED | Avg Price=641.91

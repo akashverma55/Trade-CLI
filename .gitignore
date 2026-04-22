@@ -6,9 +6,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Log file
-bot.log
-
 # Virtual environment
 venv/
 env/
